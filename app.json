@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "senseHawk-assignment",
+    "slug": "senseHawk-assignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "senseHawk-assignment"
+}
